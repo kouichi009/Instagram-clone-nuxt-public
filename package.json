@@ -1,0 +1,21 @@
+{
+  "name": "instagram-clone",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "firebase": "^7.21.0",
+    "moment": "^2.29.0",
+    "nuxt": "^2.14.5",
+    "vue-picture-input": "^2.1.6"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.2"
+  }
+}
